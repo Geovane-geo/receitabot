@@ -9,13 +9,13 @@ chave = st.secrets["GEMINI_CHAVE"]
 head1, head2, head3 = st.columns([3,11,3], vertical_alignment="center")
 
 with head1:
-    st.image("C:/Users/Administrator/Documents/receitabot/arquivos/slogam.png", use_container_width=True)  
+    st.image("arquivos/slogam.png", use_container_width=True)  
 with head2: 
    st.markdown("<h1 style='text-align: center;'>RECEITA DA AI, Bom demais!</h1>", unsafe_allow_html=True)
    st.empty()
    st.markdown("<h2 style='text-align: center;'>O seu assistente virtual para criar receitas!</h2>", unsafe_allow_html=True)
 with head3:
-     st.image("C:/Users/Administrator/Documents/receitabot/arquivos/robo cozinhando.jpeg", use_container_width=True)
+     st.image("arquivos/robo cozinhando.jpeg", use_container_width=True)
 
 col1, col2 = st.columns([2, 2])
 
