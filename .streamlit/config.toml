@@ -1,0 +1,7 @@
+[theme]
+base="dark"       # estilo
+primaryColor="#cae5e6"   # Cor principal (elementos interativos como botões)
+backgroundColor="#3788b1" #Fundo secudario
+secondaryBackgroundColor="#11979E" ## com dos botões 
+textColor = "#FFFFFF"  #cor do texto
+font = "sans serif" # fonte a ser utilizada
